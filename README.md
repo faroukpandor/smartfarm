@@ -32,7 +32,10 @@ SmartFarm is the reusable farm-management core intended to underpin the wider **
 
 The two should integrate through stable data contracts rather than becoming one tightly coupled application.
 
-## Planned stack
-React + Vite + TypeScript + Tailwind CSS + Dexie/IndexedDB + Zustand + Zod + React Hook Form + Recharts.
+## Current stack
+React + Vite + TypeScript + Dexie/IndexedDB + Zustand + Zod.
+
+## Planned UI/data extensions
+Tailwind CSS, React Hook Form and Recharts remain planned additions; they are not yet part of the implemented dependency set.
 
 See docs/PRODUCT-SPEC.md, docs/ARCHITECTURE.md, and docs/ROADMAP.md.
