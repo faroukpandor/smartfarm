@@ -4,13 +4,13 @@
 - [x] Product boundary defined
 - [x] Offline-first architecture defined
 - [x] Core data model defined
-- [ ] Vite/React application shell
-- [ ] IndexedDB/Dexie repository layer
-- [ ] Zod domain schemas
+- [x] Vite/React application shell
+- [x] IndexedDB/Dexie repository layer
+- [x] Zod domain schemas
 - [ ] Basic PWA manifest/service worker
 
 ## Phase 1 — Operational MVP
-- Farm setup
+- [x] First Farm Setup workflow
 - Fields and crop cycles
 - Livestock
 - Inventory
