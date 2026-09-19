@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  color: #17231d;
+  background: #f4f7f4;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button { font: inherit; cursor: pointer; }
+
+.app-shell { max-width: 1180px; margin: 0 auto; padding: 28px; }
+.topbar { display: flex; justify-content: space-between; gap: 24px; align-items: flex-start; }
+h1 { margin: 0; font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.05em; }
+h2 { margin: 8px 0 12px; font-size: clamp(1.7rem, 4vw, 2.6rem); letter-spacing: -0.04em; }
+h3 { margin: 4px 0 8px; font-size: 1.35rem; }
+.subtitle { margin: 6px 0 0; color: #66736b; }
+.eyebrow { margin: 0 0 8px; font-size: .72rem; font-weight: 700; letter-spacing: .12em; color: #5f7668; }
+.offline-badge { padding: 9px 12px; border: 1px solid #c9d8ce; border-radius: 999px; color: #315b45; background: #eaf2ec; font-size: .82rem; white-space: nowrap; }
+
+.module-nav { display: flex; gap: 8px; overflow-x: auto; padding: 26px 0 18px; }
+.nav-button { border: 1px solid #d6dfd9; background: white; color: #526057; border-radius: 10px; padding: 10px 14px; }
+.nav-button.active { background: #1f4d3a; color: white; border-color: #1f4d3a; }
+
+.hero { display: flex; justify-content: space-between; gap: 28px; align-items: end; padding: 34px; background: white; border: 1px solid #dce5df; border-radius: 20px; }
+.hero p { max-width: 680px; line-height: 1.65; color: #5f6b63; }
+.primary, .secondary { border: 0; border-radius: 10px; padding: 12px 16px; font-weight: 700; }
+.primary { background: #1f4d3a; color: white; }
+.secondary { background: #e8eee9; color: #254936; }
+
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 18px 0; }
+.card, .panel { background: white; border: 1px solid #dce5df; border-radius: 16px; }
+.card { padding: 20px; display: grid; gap: 8px; }
+.card span, .card small { color: #69766e; }
+.card strong { font-size: 2rem; }
+.panel { margin-top: 18px; padding: 24px; display: flex; justify-content: space-between; gap: 20px; align-items: center; }
+.module-placeholder { min-height: 260px; display: block; }
+.module-placeholder p:last-child { color: #68746c; }
+
+@media (max-width: 800px) {
+  .app-shell { padding: 18px; }
+  .hero, .panel, .topbar { align-items: flex-start; flex-direction: column; }
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .cards { grid-template-columns: 1fr; }
+}
