@@ -3,15 +3,15 @@
 **Repository:** `faroukpandor/smartfarm`
 
 ## Single recommended starting point
-Implement **Zod domain schemas + Dexie/IndexedDB persistence + repository layer + first real Farm Setup workflow**.
+Verify the GitHub Actions build, then implement **Fields + production units** on top of the existing farm persistence layer.
 
 ## Required sequence
 1. Reconcile `README.md` with what is actually implemented.
-2. Add typed domain models and validation.
-3. Add Dexie database schema and repositories.
-4. Build Farm Setup form with validation and persistence.
-5. Load persisted farm/field records into the dashboard.
-6. Add a minimal test/build workflow and record its result.
+2. Confirm the CI install/build result.
+3. Add Field/ProductionUnit Zod models and Dexie tables.
+4. Extend the Farm Setup workflow to create and edit fields.
+5. Load persisted field records into the dashboard.
+6. Add export tests for the growing local data contract.
 7. Update `docs/ROADMAP.md`, `docs/STATUS.md`, and this file.
 
 ## Architectural guardrail
