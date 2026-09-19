@@ -14,11 +14,14 @@ SmartFarm has a React/Vite/TypeScript application shell plus product, architectu
 - PWA manifest/robots metadata established.
 - Offline-first and data-ownership principles established.
 
-### Important implementation caveat
-The package manifest currently identifies Dexie, Zustand and Zod as dependencies, but the persistence/domain layer has not yet been fully implemented or verified with a local build. Tailwind, React Hook Form and Recharts are planned and must not be described as implemented until added and tested.
+### Current implementation
+Zod domain schemas, Dexie/IndexedDB persistence, farm repositories and the first Farm Setup workflow are now implemented. The dashboard reads the locally persisted farm count and first farm record.
+
+### Verification caveat
+The GitHub file workflow has not executed a local build in this session. A GitHub Actions CI workflow is added so the repository has a reproducible install/build gate. Tailwind, React Hook Form and Recharts remain planned and are not implemented dependencies.
 
 ## Next-session objective
-Implement the first real domain/persistence slice: **Zod domain schemas + Dexie/IndexedDB database + repository layer + Farm Setup workflow**, then wire the dashboard to persisted data.
+Verify the CI build, then implement **Fields + production units** and connect them to the farm setup workflow.
 
 ## Quality gate
 Before declaring the slice complete, run a reproducible install/build/typecheck path (locally or through GitHub Actions) and record the result.
