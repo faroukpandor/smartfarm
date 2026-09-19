@@ -1,0 +1,9 @@
+{
+  "name": "SmartFarm",
+  "short_name": "SmartFarm",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#1f4d3a",
+  "description": "Offline-first farm operating system for climate-resilient agriculture."
+}
