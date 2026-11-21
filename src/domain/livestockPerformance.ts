@@ -1,10 +1,15 @@
 import { z } from "zod";
 
+const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/).refine((value) => {
+  const parsed = new Date(value);
+  return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === value;
+}, "Enter a valid calendar date.");
+
 export const LivestockAssessmentSchema = z.object({
   id: z.string().min(1),
   farmId: z.string().min(1),
-  periodStart: z.string().regex(/^\\d{4}-\\d{2}-\\d{2}$/),
-  periodEnd: z.string().regex(/^\\d{4}-\\d{2}-\\d{2}$/),
+  periodStart: isoDate,
+  periodEnd: isoDate,
   breedingFemalesExposed: z.number().int().nonnegative(),
   femalesCalved: z.number().int().nonnegative(),
   calvesBornAlive: z.number().int().nonnegative(),
