@@ -2,7 +2,7 @@
 
 **Production-system-independent, offline-first farm operating system — beginning in Botswana, designed for global agricultural use.**
 
-SmartFarm is the reusable farm-management core intended to underpin the wider **AgriSage360** ecosystem. It is designed for smallholder, emerging, commercial and mixed farms where connectivity, cash flow, labour, water, livestock and crop records must work together.
+SmartFarm is the reusable farm-management core intended to underpin the wider **AgriSage360** ecosystem. It is designed for household, smallholder, emerging, commercial, cooperative and mixed farms where production, land, water, labour, resources, inventory and financial records must work together.
 
 ## Design principles
 - Offline-first; sync is additive, never a prerequisite for daily work.
