@@ -204,9 +204,11 @@ Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from l
 
 Zenda, M. (2025). Climate change adaptation and mitigation in different livestock production systems and agro-ecological zones in South Africa: A systematic review. *Tropical Animal Health and Production, 57*, 440. https://doi.org/10.1007/s11250-025-04660-9
 
-*The grazing paradox: Assessing contradictions of continuous versus rotational grazing systems in southern Africa.* (2025). *African Journal of Range & Forage Science*. https://doi.org/10.2989/10220119.2025.2477065 [Retrieve author list and final pagination before formal citation.]
+Meyer, K., & Schmiedel, U. (2026). The grazing paradox: Assessing contradictions of continuous versus rotational grazing systems in southern Africa. *African Journal of Range & Forage Science, 43*(1), 5–16. https://doi.org/10.2989/10220119.2025.2477065
 
-*Grazing smarter: Science-based grazing strategies, not only stocking rate, determine rangeland outcomes.* (2026). *African Journal of Range & Forage Science*, 17–39. https://doi.org/10.2989/10220119.2025.2609078 [Retrieve author list and final volume/issue before formal citation.]
+Fynn, R., Kirkman, K., Morris, C., & Zacharias, P. (2026). Grazing smarter: Science-based grazing strategies, not only stocking rate, determine rangeland outcomes. *African Journal of Range & Forage Science, 43*(1), 17–39. https://doi.org/10.2989/10220119.2025.2609078
+
+Letsoalo, N., Samuels, I., Cupido, C., Ntombela, K., Finca, A., Foster, J., Tjelele, J., & Knight, R. (2023). Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from livestock farmers. *Journal of Arid Environments, 219*, 105070. https://doi.org/10.1016/j.jaridenv.2023.105070
 
 ### Practice and listening resources — not peer-reviewed evidence
 
