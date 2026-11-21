@@ -7,7 +7,7 @@ import type { Farm } from "./domain/farm";
 type Module = "Overview" | "Crops" | "Livestock" | "Inventory" | "Tasks" | "Finance";
 const modules: Module[] = ["Overview", "Crops", "Livestock", "Inventory", "Tasks", "Finance"];
 
-const today = () => new Date().toISOString().slice(0, 10);
+const today = () => { const date = new Date(); const local = new Date(date.getTime() - date.getTimezoneOffset() * 60_000); return local.toISOString().slice(0, 10); };
 const emptyForm = () => ({
   periodStart: today(),
   periodEnd: today(),
@@ -98,7 +98,7 @@ function App() {
       await livestockAssessmentRepository.save(record);
       await loadAssessments(currentFarm.id);
       setForm(emptyForm());
-      setSavedMessage("Assessment saved on this device. It remains available offline.");
+      setSavedMessage("Assessment saved on this device.");
     } catch (err) {
       const message = err instanceof Error ? err.message : "Please check the values and try again.";
       setSaveError(message.includes("periodEnd") ? "The end date must be on or after the start date."
@@ -110,7 +110,7 @@ function App() {
 
   return (
     <main className="app-shell">
-      <header className="topbar"><div><p className="eyebrow">CLIMATE-RESILIENT FARM OPERATIONS</p><h1>SmartFarm</h1><p className="subtitle">Operational truth first. Intelligence second.</p></div><span className="offline-badge">● Offline ready</span></header>
+      <header className="topbar"><div><p className="eyebrow">CLIMATE-RESILIENT FARM OPERATIONS</p><h1>SmartFarm</h1><p className="subtitle">Operational truth first. Intelligence second.</p></div><span className="offline-badge">● Local-first records</span></header>
       <nav className="module-nav" aria-label="Farm modules">
         {modules.map((module) => <button key={module} className={active === module ? "nav-button active" : "nav-button"} onClick={() => setActive(module)}>{module}</button>)}
       </nav>
