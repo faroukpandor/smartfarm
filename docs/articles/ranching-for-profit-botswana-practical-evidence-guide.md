@@ -4,6 +4,8 @@
 **Geographic focus:** Botswana, with explicitly identified Southern African comparisons  
 **Keywords:** Ranching for Profit; Botswana cattle; ranch economics; rangeland management; Tswana cattle; drought adaptation; beef value chain; climate-smart livestock; AgTech
 
+**Listening companion:** [Jim Gerrish — What Really Drives Profitability in Grass Farming? (Spotify)](https://open.spotify.com/episode/2jGK1JXBBEmXKWbiXOTDBk). The episode is a practitioner resource and should be treated as a prompt for local testing, not peer-reviewed Botswana evidence.
+
 ## Abstract
 
 A large cattle herd is often interpreted as a sign of agricultural wealth, yet animal numbers alone reveal little about the economic performance or ecological sustainability of a livestock enterprise. In Botswana, where cattle production is deeply connected to rural livelihoods, national identity, export markets and semi-arid rangelands, the distinction between livestock ownership and profitable ranch management is particularly important. The challenge is not simply to increase the national herd, but to improve the quantity and value of saleable livestock output produced from each breeding female, hectare, unit of labour and pula invested, while maintaining the natural resource base.
@@ -62,7 +64,7 @@ The practical implication is not that indigenous cattle should always be preferr
 
 The grass-farming concept is particularly relevant to Botswana because natural grazing supplies much of the feed base for cattle. Yet forage availability is not a single variable. The amount of standing biomass, the proportion accessible to livestock, species composition, plant maturity, digestibility and nutrient content all influence animal performance.
 
-A Kalahari study published in the *Journal of Arid Environments* in 1986 examined eight dominant grasses over three years and reported substantial species differences and seasonal variation in crude protein, phosphorus, calcium, moisture and digestibility. The measured nutrient levels were generally low relative to cattle requirements, apart from calcium, and woody species often had higher nutrient concentrations than grasses (Skarpe et al., 1986; author list requires final publisher verification).
+A Kalahari study published in the *Journal of Arid Environments* in 1986 examined eight dominant grasses over three years and reported substantial species differences and seasonal variation in crude protein, phosphorus, calcium, moisture and digestibility. The measured nutrient levels were generally low relative to cattle requirements, apart from calcium, and woody species often had higher nutrient concentrations than grasses (Skarpe & Bergström, 1986).
 
 This finding matters because a paddock that appears green or carries visible standing grass may not provide adequate nutrition for every livestock class. Lactating cows, growing calves and animals in maintenance condition have different nutritional needs. A grazing plan should therefore consider forage quality as well as quantity, especially during the dry season.
 
@@ -74,7 +76,7 @@ The debate between continuous and rotational grazing is often presented as if on
 
 Kgosikoma, Mojeremane and Harvie (2015) compared soil and vegetation characteristics across ranches and adjacent communal grazing land in Botswana. Their results did not show a consistent effect of grazing-management category on several soil properties. Rainfall-related variables, soil carbon and clay content were associated with vegetation and rangeland condition, while degradation indicators occurred in both management contexts.
 
-Kgosikoma (2013) also reported that poor rangeland conditions and bush encroachment were not confined to communal land. Dougill et al. (2016), examining the southern Kalahari, documented bush encroachment, shifts in grass composition and broader landscape changes associated with land use, including the expansion of cattleposts and fenced ranches. Their findings support integrated landscape planning rather than an assumption that a change in tenure or fencing automatically prevents degradation.
+Kgosikoma, Mojeremane and Harvie (2012) also reported that poor rangeland conditions and bush encroachment were not confined to communal land. Dougill et al. (2016), examining the southern Kalahari, documented bush encroachment, shifts in grass composition and broader landscape changes associated with land use, including the expansion of cattleposts and fenced ranches. Their findings support integrated landscape planning rather than an assumption that a change in tenure or fencing automatically prevents degradation.
 
 International synthesis studies also caution against simplistic claims. Briske et al. (2008) reviewed experimental comparisons of rotational and continuous grazing and argued that rotational grazing was not universally superior across the rangelands examined. Teague et al. (2013), meanwhile, discussed the gap between experimental findings and rancher experience with adaptive multi-paddock management, emphasising scale, management design and the limitations of some research approaches. A 2025 southern African review of 17 studies likewise found contradictory and inconclusive results when continuous and rotational systems were compared, partly because stocking density, herbivore composition, spatial scale and experimental design differed.
 
