@@ -206,7 +206,7 @@ Meyer, K., & Schmiedel, U. (2026). The grazing paradox: Assessing contradictions
 
 Fynn, R., Kirkman, K., Morris, C., & Zacharias, P. (2026). Grazing smarter: Science-based grazing strategies, not only stocking rate, determine rangeland outcomes. *African Journal of Range & Forage Science, 43*(1), 17–39. https://doi.org/10.2989/10220119.2025.2609078
 
-Letsoalo, N., Samuels, I., Cupido, C., Ntombela, K., Finca, A., Foster, J., Tjelele, J., & Knight, R. (2023). Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from livestock farmers. *Journal of Arid Environments, 219*, 105070. https://doi.org/10.1016/j.jaridenv.2023.105070
+
 
 ### Practice and listening resources — not peer-reviewed evidence
 
