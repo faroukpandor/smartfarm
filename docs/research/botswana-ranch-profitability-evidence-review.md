@@ -48,7 +48,7 @@ Light, Buck and Lethola (2010) analysed seven years of records (1974–1980) for
 
 Kgosikoma, Mojeremane and Harvie (2015) sampled soil and vegetation in three ranches and adjacent communal grazing areas in Botswana. Grazing-management categories did not consistently explain soil texture, organic carbon, pH or bulk density. Rainfall-linked factors, including soil carbon and clay content, were associated with herbaceous biomass and bush encroachment. Indicators of degradation occurred in both ranch and communal settings.
 
-Kgosikoma (2013), in a Botswana Journal of Agriculture and Applied Sciences study, similarly reported degraded conditions in several sampled rangelands, including ranch and communal locations; bush encroachment was observed at Matlolakgang and Xanagas. The study cautioned against assuming degradation is confined to communal tenure.
+Kgosikoma, Mojeremane and Harvie (2012), in a Botswana Journal of Agriculture and Applied Sciences study, similarly reported degraded conditions in several sampled rangelands, including ranch and communal locations; bush encroachment was observed at Matlolakgang and Xanagas. The study cautioned against assuming degradation is confined to communal tenure.
 
 Dougill et al. (2016) used farm-scale transects and landscape-scale analysis in the southern Kalahari. They reported bush encroachment, changes in herbaceous composition, invasive Prosopis glandulosa in parts of the arid southwest, and landscape consequences associated with expansion of cattleposts and fenced ranches. Their conclusion emphasised integrated landscape-scale land-use planning.
 
@@ -178,7 +178,7 @@ Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2012). The influence of manageme
 
 Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2015). The impact of livestock grazing management systems on soil and vegetation characteristics across savanna ecosystems in Botswana. *African Journal of Range & Forage Science, 32*(4), 271–278. https://doi.org/10.2989/10220119.2015.1008042
 
-Light, D., Buck, N. G., & Lethola, L. L. (2010). The reproductive performance, mothering ability, and productivity of crossbred and Tswana beef cows in Botswana. *Animal Science* [verify volume, issue and pages from publisher record before formal submission]. https://www.cambridge.org/core/journals/animal-science/article/abs/reproductive-performance-mothering-ability-and-productivity-of-crossbred-and-tswana-beef-cows-in-botswana/D99E449755C9F69BF766BCE9847047F1
+Light, D., Buck, N. G., & Lethola, L. L. (1982). The reproductive performance, mothering ability and productivity of crossbred and Tswana beef cows in Botswana. *Animal Production, 35*(3), 421–426. https://doi.org/10.1017/S0003356100001112
 
 Mudongo, E. I., Tomeletso, M., Motshoi, K., Dube, P., Chibidika, C., & Stein, A. B. (2025). Adding economic and ecological value to communal pastoralism: Lessons from implementing a Herding for Health model in the Okavango Delta, Botswana. *African Journal of Range & Forage Science*, 68–80. https://doi.org/10.2989/10220119.2025.2524626
 
@@ -187,8 +187,6 @@ Rennie, T., Light, D., Rutherford, A., Miller, M., Fisher, I., Pratchett, D., Ca
 Skarpe, C., & Bergström, R. (1986). Nutrient content and digestibility of forage plants in relation to plant phenology and rainfall in the Kalahari, Botswana. *Journal of Arid Environments, 11*(2), 147–164. https://doi.org/10.1016/S0140-1963(18)31226-6
 
 ### Additional Botswana and regional peer-reviewed evidence
-
-Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2012). The influence of management systems on rangeland conditions under different environments in Botswana. *Botswana Journal of Agriculture and Applied Sciences, 8*(2), 75–82. https://journals.ub.bw/index.php/bojaas/article/view/221
 
 Vanderpost, C., Ringrose, S., Matheson, W., & Arntzen, J. (2011). Satellite based long-term assessment of rangeland condition in semi-arid areas: An example from Botswana. *Journal of Arid Environments, 75*(4), 383–389. https://doi.org/10.1016/j.jaridenv.2010.11.002
 
@@ -200,7 +198,7 @@ Teague, R., Provenza, F., Kreuter, U., Steffens, T., & Barnes, M. (2013). Multi-
 
 Vetter, S. (2010). Drought, change and resilience in South Africa's arid and semi-arid rangelands. *South African Journal of Science, 105*(1/2), a35. https://doi.org/10.4102/sajs.v105i1/2.35
 
-Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from livestock farmers. (2023). *Journal of Arid Environments, 219*, 105070. https://doi.org/10.1016/j.jaridenv.2023.105070 [Verify author list before formal citation.]
+Letsoalo, N., Samuels, I., Cupido, C., Ntombela, K., Finca, A., Foster, J., Tjelele, J., & Knight, R. (2023). Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from livestock farmers. *Journal of Arid Environments, 219*, 105070. https://doi.org/10.1016/j.jaridenv.2023.105070
 
 Zenda, M. (2025). Climate change adaptation and mitigation in different livestock production systems and agro-ecological zones in South Africa: A systematic review. *Tropical Animal Health and Production, 57*, 440. https://doi.org/10.1007/s11250-025-04660-9
 
