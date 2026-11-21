@@ -3,8 +3,8 @@ import { z } from "zod";
 export const LivestockAssessmentSchema = z.object({
   id: z.string().min(1),
   farmId: z.string().min(1),
-  periodStart: z.string().date(),
-  periodEnd: z.string().date(),
+  periodStart: z.string().regex(/^\\d{4}-\\d{2}-\\d{2}$/),
+  periodEnd: z.string().regex(/^\\d{4}-\\d{2}-\\d{2}$/),
   breedingFemalesExposed: z.number().int().nonnegative(),
   femalesCalved: z.number().int().nonnegative(),
   calvesBornAlive: z.number().int().nonnegative(),
