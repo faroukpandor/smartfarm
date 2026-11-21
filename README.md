@@ -22,7 +22,7 @@ SmartFarm is designed to manage multiple agricultural enterprises on one farm, i
 
 The shared core covers farms and locations, enterprises, production units, cycles/cohorts, resources and inputs, activities, labour, water, inventory, outputs and losses, sales, expenses, observations, documents, traceability and reporting. Specialist extension packs provide production-specific records and indicators.
 
-See [Universal Agricultural Production Systems Scope](docs/AGRICULTURAL-PRODUCTION-SYSTEMS-SCOPE.md) for the production-system catalogue, domain principles, extension model, Botswana-first rollout and international architecture.
+See [Universal Agricultural Production Systems Scope](docs/AGRICULTURAL-PRODUCTION-SYSTEMS-SCOPE.md) for the production-system catalogue and [Universal Entity and Taxonomy Contract](docs/TAXONOMY-AND-ENTITY-CONTRACT.md) for the canonical relationship model, taxonomy dimensions, identifiers, versioning and AgriSage360 mapping rules.
 
 ## Relationship to AgriSage360
 **SmartFarm = operational system of record.**
