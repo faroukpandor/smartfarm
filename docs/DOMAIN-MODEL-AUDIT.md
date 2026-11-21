@@ -86,3 +86,23 @@ Relationships are many-to-many where justified: an enterprise may use multiple p
 
 ## 8. Evidence and limitations
 This audit is based on static repository files fetched from GitHub. It does not establish runtime reachability, build success, browser behaviour, migration safety, legal compliance, local commercial prevalence or farmer usability. No farmer data was accessed. No production database, deployment or public content was changed.
+
+
+## 9. Catalogue coverage distinctions and likely gaps
+
+The AgriSage360 register's 11 categories are not all production-system categories in the same sense. Its published category list includes livestock, crops, horticulture, rangeland, wildlife, aquatic, forestry, veld-products, water, soil and mixed systems. Water and soil are foundational natural resources; rangeland, wildlife and veld products have distinct stewardship/conservation dimensions. Preserve these distinctions instead of treating every category as a commodity-producing enterprise.
+
+The 21-system summary explicitly includes communal beef, commercial beef ranch, feedlot, goats/sheep, broilers, layers/indigenous poultry, dairy, piggery, rain-fed cereals, irrigated field crops/fodder, open-field and protected horticulture, rangeland, game/wildlife conflict, aquaculture, woodland/farm forestry, veld-product harvesting, groundwater/borehole management, soil health/conservation and mixed crop-livestock.
+
+Compared with the broader SmartFarm design inventory, the summary does not explicitly identify dedicated systems for apiculture, mushroom/fungi production, insect farming/bioconversion, nursery and seed multiplication, microbial input production, hydroponics/aeroponics/vertical farming or aquaponics. These are **coverage gaps to investigate**, not proof that no related material exists elsewhere in AgriSage360. Search the actual source, operations catalogue and tests before concluding a capability is absent.
+
+The taxonomy contract should therefore distinguish at least:
+- **Production system:** the method and operational context of producing a good or service.
+- **Commodity/product:** what is sold or produced.
+- **Production mode:** extensive, intensive, rain-fed, irrigated, protected, organic (where certified/defined), etc.
+- **Place/production unit:** where and in what physical unit activity occurs.
+- **Operation/activity:** the work performed.
+- **Resource domain:** soil, water, rangeland, biodiversity and ecosystem condition.
+- **Regulatory/evidence domain:** applicable instruments, standards, source, jurisdiction and review status.
+
+A single flat list or enum would conflate these meanings and make later expansion brittle.
