@@ -174,7 +174,7 @@ Frank, L. O., & Sarthi, P. P. (2025). The impact of seasonal variability of rain
 
 Kabelo, T. I., Fana, E. M., Hyera, J. M., & Lebani, K. (2023). A review of foot-and-mouth disease status and control measures in Botswana. *Tropical Animal Health and Production, 55*(4), 278. https://doi.org/10.1007/s11250-023-03674-5
 
-Kgosikoma, O. E. (2013). The influence of management systems on rangeland conditions under different [environmental conditions in Botswana]. *Botswana Journal of Agriculture and Applied Sciences, 8*(2). [Verify final title and pagination against journal issue before formal citation.] https://journals.ub.bw/index.php/bojaas/article/view/221
+Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2012). The influence of management systems on rangeland conditions under different environments in Botswana. *Botswana Journal of Agriculture and Applied Sciences, 8*(2), 75–82. https://journals.ub.bw/index.php/bojaas/article/view/221
 
 Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2015). The impact of livestock grazing management systems on soil and vegetation characteristics across savanna ecosystems in Botswana. *African Journal of Range & Forage Science, 32*(4), 271–278. https://doi.org/10.2989/10220119.2015.1008042
 
@@ -184,9 +184,23 @@ Mudongo, E. I., Tomeletso, M., Motshoi, K., Dube, P., Chibidika, C., & Stein, A.
 
 Rennie, T., Light, D., Rutherford, A., Miller, M., Fisher, I., Pratchett, D., Capper, B., Buck, N., & Trail, J. (1977). Beef cattle productivity under traditional and improved management in Botswana. *Tropical Animal Health and Production, 9*(1), 1–6. https://doi.org/10.1007/BF02297380
 
-Skarpe et al. (1986). Nutrient content and digestibility of forage plants in relation to plant phenology and rainfall in the Kalahari, Botswana. *Journal of Arid Environments, 11*(2), 147–164. https://doi.org/10.1016/S0140-1963(18)31226-6 [Verify complete author list from publisher metadata before journal submission.]
+Skarpe, C., & Bergström, R. (1986). Nutrient content and digestibility of forage plants in relation to plant phenology and rainfall in the Kalahari, Botswana. *Journal of Arid Environments, 11*(2), 147–164. https://doi.org/10.1016/S0140-1963(18)31226-6
 
-### Regional peer-reviewed evidence
+### Additional Botswana and regional peer-reviewed evidence
+
+Kgosikoma, O. E., Mojeremane, W., & Harvie, B. (2012). The influence of management systems on rangeland conditions under different environments in Botswana. *Botswana Journal of Agriculture and Applied Sciences, 8*(2), 75–82. https://journals.ub.bw/index.php/bojaas/article/view/221
+
+Vanderpost, C., Ringrose, S., Matheson, W., & Arntzen, J. (2011). Satellite based long-term assessment of rangeland condition in semi-arid areas: An example from Botswana. *Journal of Arid Environments, 75*(4), 383–389. https://doi.org/10.1016/j.jaridenv.2010.11.002
+
+Fynn, R. W. S., & O'Connor, T. G. (2000). Effect of stocking rate and rainfall on rangeland dynamics and cattle performance in a semi-arid savanna, South Africa. *Journal of Applied Ecology*. https://doi.org/10.1046/j.1365-2664.2000.00513.x
+
+Briske, D. D., Derner, J. D., Brown, J. R., Fuhlendorf, S. D., Teague, W. R., Havstad, K. M., Gillen, R. L., Ash, A. J., & Willms, W. D. (2008). Rotational grazing on rangelands: Reconciliation of perception and experimental evidence. *Rangeland Ecology & Management, 61*(1), 3–17. https://doi.org/10.2111/06-159R.1
+
+Teague, R., Provenza, F., Kreuter, U., Steffens, T., & Barnes, M. (2013). Multi-paddock grazing on rangelands: Why the perceptual dichotomy between research results and rancher experience? *Journal of Environmental Management, 128*, 699–717. https://doi.org/10.1016/j.jenvman.2013.05.064
+
+Vetter, S. (2010). Drought, change and resilience in South Africa's arid and semi-arid rangelands. *South African Journal of Science, 105*(1/2), a35. https://doi.org/10.4102/sajs.v105i1/2.35
+
+Coping and adapting to drought in semi-arid Karoo rangelands: Key lessons from livestock farmers. (2023). *Journal of Arid Environments, 219*, 105070. https://doi.org/10.1016/j.jaridenv.2023.105070 [Verify author list before formal citation.]
 
 Zenda, M. (2025). Climate change adaptation and mitigation in different livestock production systems and agro-ecological zones in South Africa: A systematic review. *Tropical Animal Health and Production, 57*, 440. https://doi.org/10.1007/s11250-025-04660-9
 
