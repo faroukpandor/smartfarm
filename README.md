@@ -39,3 +39,9 @@ React + Vite + TypeScript + Dexie/IndexedDB + Zustand + Zod.
 Tailwind CSS, React Hook Form and Recharts remain planned additions; they are not yet part of the implemented dependency set.
 
 See docs/PRODUCT-SPEC.md, docs/ARCHITECTURE.md, and docs/ROADMAP.md.
+
+## Botswana regulatory dependency
+
+SmartFarm does not determine legal permission to import, move, collect, propagate, cultivate, trial or sell agricultural organisms and inputs. Regulatory evidence is maintained centrally in [AgriSage360 / AGRISAGE](https://github.com/faroukpandor/AGRISAGE), with the current source-linked assessment in [Botswana Agricultural Regulatory Intelligence](https://github.com/faroukpandor/AGRISAGE/blob/main/docs/regulatory/BOTSWANA-AGRICULTURAL-REGULATORY-INTELLIGENCE-2026-11-22.md). See the [SmartFarm regulatory dependency handover](./docs/REGULATORY-DEPENDENCY-HANDOVER-2026-11-22.md).
+
+No schema migration, new legal-status rule, API or production feature is authorised by that documentation. Preserve FAR-182's entity/taxonomy approval gate.
