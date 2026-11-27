@@ -556,3 +556,84 @@ Only after the owner confirms the site identity and provides access should the p
 A concise WhatsApp follow-up has been prepared for Bernard asking for the overall property layout/site plan, the reported internal sections, roads and existing facilities; the survey diagram if available; and a site walk-through. This is a **draft for Farouk to send**, not a message sent by this project record. No map or land document has yet been received or verified.
 
 **Next action:** Farouk sends the short WhatsApp request. On receipt, upload the plan here for review; update the site-information register and Linear issue before preparing site-specific zoning, feasibility or supplier recommendations.
+
+
+## 17. Work advanced while awaiting owner information — 27 November 2026
+
+### 17.1 Gmail correspondence review and action
+
+Reviewed the relevant Gmail drafts before any new contact:
+- Draft to Global Care, subject **“Correction: Please disregard my earlier Mmamashia farm email”** — a correction/disclaimer, not a suitable follow-up to the 27 November meeting.
+- Draft reply to Sherifa and Bernard, subject **“Re: Mmamashia farm and leisure project — staged feasibility discussion”** — contains material assertions and commercial proposals that are not adequately verified and must not be sent as written.
+- Draft to Tianxu/Megan is separate supplier correspondence and is not a Setlhare-approved supplier instruction.
+
+A new email was sent on 27 November 2026 to the previously used Global Care contact address `globalcare@btcmail.co.bw`, addressed to Bernard and Sherifa. It thanks them for the meeting, requests the existing whole-property layout/site or development plan, asks for survey/general plan and approved layout only if readily available, and requests a site walk-through. It explicitly says no new drawing needs to be prepared and that equipment/supplier recommendations will follow only after the property is understood.
+
+**Sent message record:** Gmail message ID `1a21be903b584d8f`; thread ID `1a21be903b584d8f`; subject **Setlhare Farms — property layout and next steps**. Sent to the existing company contact address, not a verified personal Bernard address. No attachment was sent. Earlier drafts were not sent, overwritten or deleted.
+
+### 17.2 Regulatory correction — do not rely on unsent draft figures
+
+The unsent 11 November proposal draft contains assertions that must not be carried forward as established facts, including a blanket statement of a fixed EIA programme, a 3–6 month duration, P25,000–P80,000 cost, total compliance budget P95,000–P240,000, and claims about the financial impact of a no-liquor policy or wedding revenue. These figures and claims are unsupported by verified site data, authority determinations, quotations or audited operating records. They are not approved project estimates and must not be repeated to Bernard as facts.
+
+The Botswana Environmental Assessment Regulations 2012 published by Government list **amusement parks** under Schedule 1, item 13(d), in the schedule of activities for which an environmental statement is required. The same regulations require a project brief at concept/pre-feasibility stage; the competent authority determines the next assessment steps. The official Government EA service page lists administrative review periods for project briefs, public consultation, scoping and EIA/EMP review, but those are review periods at specific stages, not a guaranteed end-to-end project delivery time. The site, scale, exact activity mix and competent-authority determination must be known before a reliable scope, schedule or fee can be estimated.
+
+Sources:
+- Environmental Assessment Regulations 2012 (Government PDF): https://gov.bw/sites/default/files/2019-12/Environmental%20Assessment%20Regulations%202012%20%28002%29.pdf
+- Government environmental assessment authorisation service: https://www.gov.bw/environmental-management/application-environmental-assessment-ea-authorizations?page=2
+
+Tourism licensing must be assessed against the actual business activities and relevant licence categories. The Tourism Act text includes broad wording concerning carrying on or assisting in carrying on a tourist enterprise; do not conclude from this alone that every planning consultant, supplier introducer or owner-side coordinator requires a tourism licence. Before taking bookings, soliciting/accepting tourist business, selling visitor packages or operating a tourist activity, obtain written guidance from the Department of Tourism and, if needed, Botswana legal advice. Distinguish owner-side project development work from operating or marketing the visitor enterprise.
+
+Sources:
+- Tourism Act text (verify current consolidated law): https://www.laws.co.bw/download/tourism-board-act-chapter-4210/?filename=1681773446wpdm_TOURISM_Watermarked.pdf&ind=0&refresh=68a203ea948331755448298&wpdmdl=489
+- Botswana Tourism subsidiary legislation index (2026): https://www.botswanalaws.com/tourism-subsidiary-legislation/
+
+The Government's planning permission guidance covers recreation/open-space, mixed-use, land-use changes and subdivisions. The March 2026 Parliament statement notes the Spatial Development Code 2025 and an ongoing review of the Town and Country Planning Act. Obtain site-specific confirmation from the responsible planning authority; older guidelines and old fee/timeline estimates must not be assumed current.
+- https://www.gov.bw/taxonomy/term/78
+- https://www.parliament.gov.bw/documents/DAILY-HANSARD--09-MARCH-2026---Budget-Meeting--2nd-meeting-of-the-2nd-session-of-the-13th-Parliament_11_07_59_16_03_2026.pdf
+- https://www.gov.bw/land-management/application-change-land-use?page=2
+
+### 17.3 Work product prepared in principle: owner-side discovery assignment
+
+The first paid assignment should be a bounded **Site and Commercial Opportunity Discovery**; it should not promise a fully designed masterplan, approved business plan, EIA, engineering design or procurement outcome.
+
+Proposed deliverables, subject to owner agreement:
+1. Site and document register: property identity, tenure, available maps/plans, existing approvals and gaps.
+2. Site reconnaissance record: facilities, access/circulation, parking, utilities, water/wastewater, drainage, sanitation, emergency access, shade/landscape and visible constraints.
+3. Existing-asset utilisation assessment: conference, pool, gardens and any other usable facilities, subject to condition and approvals.
+4. Customer and demand hypotheses: family day visitors, children's groups, schools, corporate/team events, community/cultural functions, conferences and domestic visitors; identify what evidence is needed to validate each segment.
+5. Preliminary activity shortlist: compare low-capital event/programme pilots and modular attractions before considering major fixed installations.
+6. Operating-model options: owner-operated, concessions/third-party operators or hybrid; responsibilities and risks for each.
+7. Preliminary financial model structure: capex, installation, freight/duty, utilities, staffing, consumables, maintenance, insurance, licences, marketing, seasonality, utilisation, pricing and break-even sensitivities. No invented demand or revenue forecast.
+8. Compliance and professional-advice register: planning, land rights, environment, water, tourism, building/fire, public health, pool safety, food service, events, insurance and any activity-specific standards.
+9. Decision memo: go / revise / pause / stop, with staged next steps and specialist scopes.
+
+**Exclusions unless separately commissioned:** cadastral survey; planning application; environmental project brief or assessment; legal opinion; architectural/engineering/aquatic design; safety certification; quantity surveying; supplier agency; tender award; construction supervision; visitor operations; bookings/ticket sales; financing arrangement.
+
+### 17.4 Supplier-neutral RFI and comparison framework
+
+Do not send RFIs or ask suppliers for quotations until the owner confirms the concept brief and authorises market engagement. When authorised, issue the same written information request to comparable vendors and request:
+- exact product/model, drawings, dimensions, footprint and required exclusion/safety envelope;
+- intended users, age/height/weight limits, throughput assumptions and capacity methodology;
+- applicable standards, conformity documents, test reports and exact model coverage;
+- site preparation, foundations, structural loads, wind exposure and professional design requirements;
+- water, power, drainage, storage and other utility requirements;
+- shipping terms, packing, freight, insurance, import duties/taxes and delivery to site;
+- installation, commissioning, inspection, training and handover responsibilities;
+- warranty exclusions, maintenance intervals, spare parts, local/regional response and expected service life;
+- references for comparable installations in southern Africa or similar operating environments;
+- itemised initial price, installed cost, recurring cost and lifecycle assumptions;
+- payment milestones, currency, lead times, cancellation, dispute and after-sales terms.
+
+Score comparable proposals only after minimum safety/compliance gates are met. Suggested weighted comparison: safety and engineering evidence 20%; installed and lifecycle cost 20%; site/audience fit 15%; warranty, spares and after-sales 15%; guest appeal and throughput evidence 15%; relevant references 10%; delivery and commercial clarity 5%. A high score cannot compensate for missing safety evidence or a failed statutory requirement.
+
+### 17.5 Preliminary stage gates and current status
+
+- **Gate 0 — Owner mandate:** owner confirms objectives, decision-maker, budget range, access and paid discovery scope. Not yet achieved.
+- **Gate 1 — Site facts:** receive existing layout, survey/land records, tenure, approvals and authorised site access. Requested; awaiting response.
+- **Gate 2 — Feasibility:** test market, site suitability, utilities, operational model, compliance pathway and whole-life economics. Framework prepared; site-specific conclusions pending.
+- **Gate 3 — Concept selection:** owner approves preferred phased concept and funding route. Not started.
+- **Gate 4 — Professional design and authority process:** appoint appropriately qualified practitioners and obtain written authority decisions. Not authorised.
+- **Gate 5 — Supplier procurement:** issue controlled RFI/RFQ, compare offers and award only with written owner approval. Not authorised.
+- **Gate 6 — Build, commissioning and operation:** only after permits, design sign-offs, funding, insurance, staffing, safety procedures and operating controls are confirmed. Not authorised.
+
+**Immediate project state:** the follow-up email has been sent to the known Global Care company contact. Await Bernard/Sherifa's response and existing property information. No paid mandate, budget, appointment, site access, project approval, supplier instruction or procurement authority has been granted. Continue desk research and preparation only; do not spend money or represent the project as commissioned.
