@@ -176,3 +176,43 @@ The next action is to establish direct contact with Bernard and secure a short m
 - Daily News / Mass Media Botswana, “Minister Notes Progress in Horticultural Production,” 1 April 2026: https://massmedia.co.bw/news/minister-notes-progress-in-horticultural-production
 - U.S. International Trade Administration, “Botswana — Agricultural Sectors,” published 8 December 2025: https://www.trade.gov/country-commercial-guides/botswana-agricultural-sectors
 - Lion Park Resort, tickets and packages: https://lionpark.co.bw/tickets/ and https://lionpark.co.bw/our-packages/
+
+
+---
+
+## 11. Meeting update — Bernard Setlhare, 27 November 2026
+
+**Status:** User-reported meeting; not yet a signed appointment or approved project.
+
+Farouk met Bernard Setlhare. Bernard recalled Farouk's earlier proposal to develop Setlhare Farms into a destination for events and ecotourism. Bernard described parts of the property as subdivided into approximately 60 m × 60 m areas, with roadways between them so that separate activities/enterprises could operate and diversify the site. He also mentioned the existing conferencing, pool and garden areas. Bernard said he would send the property map and division/layout. These details remain verbal until the map, survey/land documentation and approvals are inspected.
+
+Bernard said he was considering enterprises beyond agriculture because agriculture had not been sufficiently worthwhile or profitable for him. Farouk discussed expanding the earlier water-park idea into a wider ecotourism, family recreation, events and wholesome entertainment destination, with options for children and adults. Farouk also proposed identifying manufacturers and suppliers able to supply appropriate attractions and, where possible, provide technical planning or product-specific design support.
+
+### Updated strategic position
+
+The leisure opportunity is now a distinct, wider development workstream alongside the farm-income opportunity. It should be planned as an integrated destination, not as a waterpark-only project or a collection of unrelated purchases. Existing conference, pool and garden facilities should be assessed as the initial commercial hub. Any 60 m × 60 m activity areas (3,600 m² each if confirmed) should be treated as flexible planning zones until site survey, land-use status, utilities, circulation and customer demand are verified.
+
+Farouk's recommended role is **independent owner-side development and procurement orchestrator**:
+- Setlhare Farms defines the vision, land access, budget, risk appetite and approves all decisions.
+- Farouk coordinates discovery, project brief, market research, RFI/RFQ process, comparison of options, cost/risk register, project schedule and reporting under a written paid mandate.
+- Independent qualified professionals undertake statutory planning, architecture, engineering, aquatic design, environmental assessment, safety design and certification.
+- Manufacturers/suppliers provide product-specific proposals, equipment, installation, commissioning, training, warranty and support; they do not independently determine the whole destination mix simply because they sell products.
+- Setlhare Farms contracts with and pays suppliers directly wherever practicable. No hidden supplier margin or undisclosed commission. Any referral remuneration must be declared in advance and approved in writing; an owner-paid fee is preferred.
+
+This role must remain within the boundaries of competence and applicable law. The Tourism Act's published text contains broad wording concerning assistance in carrying on a tourist enterprise, and the Act was under review during 2026. Before undertaking visitor bookings, ticket sales, tour operations, soliciting/accepting tourist business or managing a tourism operation, obtain written guidance from the Department of Tourism and appropriate legal advice. Owner-side feasibility and procurement coordination should be scoped separately and not assumed to grant a tourism licence.
+
+### Immediate next steps
+
+1. Receive and inspect Bernard's map, site division plan, plot/land references, survey diagram, tenure documents and existing planning/building approvals.
+2. Confirm whether the 60 m × 60 m areas are legal surveyed subdivisions or internal activity/development zones.
+3. Confirm whether this is the same Mmamashia site referenced in earlier records.
+4. Conduct an authorised site walk-through and inventory existing conference, pool, garden, access, parking, water, power, sanitation, drainage and safety infrastructure.
+5. Determine land-use, environmental, water, public-health, tourism, fire, building and trade approval pathways with the appropriate authorities.
+6. Commission a paid, bounded discovery/feasibility assignment before producing a detailed masterplan or approaching suppliers with a procurement brief.
+7. Test demand with families, schools, corporate buyers, event planners and existing customers. Compare the offer against local leisure/entertainment operators.
+8. Prepare an independent, phased concept and business case; pilot low-capital uses of existing assets before permanent attraction purchases.
+9. Issue a structured supplier RFI only after the owner's brief and site constraints are clear.
+
+The full strategy, initial supplier research, competitor context, regulatory workstream, phasing, fee model and RFI screening requirements are recorded in [SETLHARE-LEISURE-ECOTOURISM-DEVELOPMENT-STRATEGY-2026-11-27.md](SETLHARE-LEISURE-ECOTOURISM-DEVELOPMENT-STRATEGY-2026-11-27.md).
+
+**Commercial protection:** The existing BWP 10,000/month income target remains an opening negotiation target for an agreed paid management/development mandate; it is not accepted or approved by Setlhare Farms. The previous one-off BWP 10,000/five-day feasibility proposal must not automatically be treated as covering this substantially broader leisure-development scope. No unpaid extensive planning, personal project financing, supplier commitments, deposits or construction commitments without a written agreement and owner approval.
