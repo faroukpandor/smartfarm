@@ -508,3 +508,51 @@ If the answer is yes, agree the scope, fee, access, information and timing in wr
 ---
 
 **Bottom line:** The opportunity is to build a commercially disciplined, multi-experience destination in stages. Farouk's most defensible role is independent owner-side orchestration, paid transparently by Setlhare Farms, supported by qualified independent professionals and competing suppliers. The next critical input is Bernard's site map and land/development records; without them, a detailed zone allocation or equipment recommendation would be premature.
+
+
+## 16. Property information request — Botswana terminology and verification
+
+### 16.1 Request the whole-property plan, not only the activity blocks
+
+The first information request to Bernard should be simple: ask for any existing **overall property layout/site plan or development layout** showing the entire property, its access roads, internal roads, existing buildings and facilities, gardens, pool, conference area, the reported 60 m × 60 m areas, and any undeveloped land. A photograph, scan or PDF of an existing drawing is sufficient for the initial review; do not ask Bernard to commission a new plan at this stage.
+
+If available, also request the **survey diagram/general plan** and the property's land-rights document (for example, title deed, lease or relevant Land Board certificate/records). These are different documents and serve different purposes:
+
+- **Survey diagram / general plan:** cadastral land information, such as the surveyed parcel, boundaries, dimensions and survey references. This is the document family to use when checking the legal extent and identity of the land.
+- **Location map:** shows where the property is situated in relation to roads, settlements and surrounding features.
+- **Site plan / existing development layout:** shows the arrangement of the property, access, roads, buildings, services and other site features. This is the most useful initial drawing for understanding how the destination currently functions.
+- **Approved development or planning layout:** where one exists, records the development arrangement accepted by the relevant planning authority. It should be distinguished from an informal concept sketch or an owner's internal activity layout.
+
+The reported 60 m × 60 m areas must not be described as legal subdivisions unless the survey and land records establish that status. For now call them **reported activity areas** or **internal development zones**. Each would be 3,600 m² if the dimensions are accurate, but the dimensions and legal status remain unverified.
+
+### 16.2 Botswana-specific planning and land checks
+
+The Government of Botswana's planning-permission guidance says land development, changes of use and subdivisions require the applicable planning process and approval. It identifies proof of land rights, a location map, site plan and supporting sketches/diagrams among the required information. Applications are made through the planning authority responsible for the property's area; other agencies may need to be consulted depending on the proposal. Official guidance: https://www.gov.bw/land-management/planning-permission
+
+The Government's published planning/building application form describes the location map, site plan, existing and proposed buildings, plot boundaries, adjoining roads, access, boreholes and sanitation infrastructure as relevant plan content. This is useful as a checklist, not a substitute for asking the responsible authority what is currently required for this particular property: https://www.gov.bw/sites/default/files/2020-03/Planning%20%26%20Building%20permission%20form.pdf
+
+The Department of Surveys and Mapping is Botswana's national surveying and mapping authority and regulates cadastral surveying; the Department of Town and Country Planning has the national spatial-planning role. See https://gov.bw/ministries/ministry-lands-and-agriculture. Government information on land survey record approval identifies survey diagrams and general plans as survey records: https://www.gov.bw/taxonomy/term/129?page=6
+
+The owner should confirm the property's exact location, plot/parcel reference, tenure and responsible local planning authority before any formal planning enquiry. Do not assume the site is Mmamashia until Bernard confirms it. Do not assume that internal 60 m × 60 m blocks are separately leased, surveyed or approved plots.
+
+### 16.3 Initial document checklist — request only what already exists
+
+1. Overall property layout / existing site or development plan.
+2. Survey diagram or general plan, if available.
+3. Plot/parcel reference and land-rights document (title, lease or Land Board documentation, as applicable).
+4. Existing planning permissions, approved site layouts and building approvals relevant to the current facilities.
+5. Any available utility or infrastructure plans (water source and reticulation, electricity, wastewater/septic systems, drainage and access).
+
+Bernard should not be asked to prepare missing documents. Record each item as **received**, **not available**, **to be verified with owner/authority**, or **not yet requested**.
+
+### 16.4 How the information will be used
+
+After receipt, review the whole-property layout before assigning uses to any zone. Build a simple site-information register covering boundaries and access; internal circulation; existing facilities; reported activity blocks; water, power, sanitation and drainage; parking and emergency access; topography/shade/vegetation; and visible constraints. Then compare the drawing against the survey/land documents and, where appropriate, arrange an authorised site walk-through.
+
+Only after the owner confirms the site identity and provides access should the project team decide whether a registered land surveyor, physical planner, architect or engineer needs to be commissioned. The owner remains responsible for authorising formal applications and appointing qualified professionals. No new survey, planning application, paid consultant instruction or supplier procurement is authorised by this information request.
+
+### 16.5 Current communication and decision status
+
+A concise WhatsApp follow-up has been prepared for Bernard asking for the overall property layout/site plan, the reported internal sections, roads and existing facilities; the survey diagram if available; and a site walk-through. This is a **draft for Farouk to send**, not a message sent by this project record. No map or land document has yet been received or verified.
+
+**Next action:** Farouk sends the short WhatsApp request. On receipt, upload the plan here for review; update the site-information register and Linear issue before preparing site-specific zoning, feasibility or supplier recommendations.
