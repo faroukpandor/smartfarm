@@ -637,3 +637,27 @@ Score comparable proposals only after minimum safety/compliance gates are met. S
 - **Gate 6 — Build, commissioning and operation:** only after permits, design sign-offs, funding, insurance, staffing, safety procedures and operating controls are confirmed. Not authorised.
 
 **Immediate project state:** the follow-up email has been sent to the known Global Care company contact. Await Bernard/Sherifa's response and existing property information. No paid mandate, budget, appointment, site access, project approval, supplier instruction or procurement authority has been granted. Continue desk research and preparation only; do not spend money or represent the project as commissioned.
+
+
+### 17.6 Demand validation plan — before selecting attractions
+
+Treat each customer segment as a hypothesis, not a proven market:
+- Families and day visitors: desired visit duration, travel willingness, age mix, acceptable entry spend, food/shade/toilet expectations and repeat-visit triggers.
+- Birthdays and private functions: group size, package preferences, weekend/holiday timing, venue expectations and willingness to pay.
+- Schools and youth groups: safeguarding, age suitability, transport, supervision, educational/recreation value and institutional procurement constraints.
+- Corporate and institutional groups: team-building formats, weekday demand, catering/conference integration, privacy, invoicing and procurement lead time.
+- Community, cultural and faith groups: dry/wholesome venue suitability, affordability, accessibility, sound/time limits and event logistics.
+- Conferences and existing facility users: current enquiry volume, conversion, utilisation by day/time, average booking value, repeat customers and reasons for lost bookings.
+
+Evidence to collect, where the owner permits: anonymised historical bookings and enquiries; facility utilisation; customer feedback; competitor package/price observations; structured interviews with prospective group organisers; and small, owner-approved pilots using existing facilities. Do not collect personal data unnecessarily or represent hypothetical interest as confirmed demand.
+
+Pilot measures should include qualified enquiries, enquiry-to-booking conversion, paid attendance/confirmed group bookings, revenue per booking/visitor, direct contribution after event-specific costs, facility utilisation, cancellations/refunds, repeat bookings, customer feedback, staffing hours, maintenance burden and safety incidents/near misses. Set targets only after baseline data and owner objectives are agreed.
+
+### 17.7 Preliminary activity-screening tiers
+
+These are planning prompts, not legal classifications or permission to operate:
+- **Tier A — activate existing facilities:** curated events, garden programmes, workshops, community/corporate functions and existing conference use, subject to existing approvals, occupancy, fire, public health, insurance and event conditions.
+- **Tier B — temporary/modular attractions:** supervised play, temporary obstacle experiences, inflatables or pop-up recreation. Check planning/use permissions, equipment safety, anchoring/wind conditions, operator competence, public liability and any activity-specific requirements before each pilot.
+- **Tier C — permanent/high-capital attractions:** amusement rides, waterpark infrastructure, new pools, major structures, significant earthworks or new utility networks. Require early written planning and environmental screening, qualified design, safety engineering, water/energy/waste analysis, capital and lifecycle appraisal, and owner-approved professional appointments. Amusement parks are specifically listed in Schedule 1 item 13(d) of the Environmental Assessment Regulations 2012; do not assume a large attraction can be treated as a simple low-impact pilot.
+
+A temporary pilot is not automatically exempt from land-use, public health, safety, insurance or other legal requirements. Obtain authority confirmation for the actual activity and site before opening to the public.
